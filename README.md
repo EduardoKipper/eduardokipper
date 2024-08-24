@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="center" gap="15">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoKipper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoKipper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
@@ -64,5 +64,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGM0OXkzYzh6YTNoaDI5anU0ZmNrYm9teGsxa2VobnRweHgzNXUzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13eirb4In7z4is/giphy.gif" width="100%" alt="pacman">
